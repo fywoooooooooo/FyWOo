@@ -1,0 +1,18 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/icons">
+    <file>icons/app.ico</file>
+    <file>icons/app.png</file>
+    <file>icons/cpu.png</file>
+    <file>icons/gpu.png</file>
+    <file>icons/memory.png</file>
+    <file>icons/network.png</file>
+    <file>icons/disk.png</file>
+    <file>icons/process.png</file>
+    <file>icons/export.png</file>
+    <file>icons/settings.png</file>
+    <file>icons/analysis.png</file>
+    <file>icons/3D.png</file>
+    <file>icons/search.png</file>
+    <file>icons/history.png</file>
+</qresource>
+</RCC>
